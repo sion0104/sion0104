@@ -18,8 +18,25 @@ iOS & Flutter 개발자를 꿈꾸는 열정적인 개발자입니다. 🚀
 - Stripe API
 - GitHub
 - Xcode
+- Figma
 
 ## 🚀 프로젝트 경험
+
+### MeokPT (5인 프로젝트)
+- **기간**: 2025.04.28 ~ 2025.06.16
+- **역할**: AI 연동 및 프롬프트 작성, UI/UX 구현, 하루 적정 섭취 영양 성분 계산 및 저장
+- **기술**: SwiftUI, SwiftData, Firebase, TCA, Tuist
+- **프로젝트 레포지토리**: https://github.com/sion0104/MeokPT
+
+#### 주요 기여
+- 사용자 맞춤 영양 성분 계산 기능 개발 
+- AI 분석 기능 설계 및 구현
+- 위의 기능을 사용하는 곳의 뷰 구현
+
+#### 배운 점
+- TCA, NotificationCenter 등 처음 접한 기술 체득
+- 기술력보다 중요한 것은 소통이라는 큰 교훈
+
 
 ### HiddenGems (3인 프로젝트)
 - **기간**: 2025.03.06 ~ 2025.03.10
@@ -47,7 +64,6 @@ iOS & Flutter 개발자를 꿈꾸는 열정적인 개발자입니다. 🚀
 #### 주요 기여
 - 사진 삭제 및 프레임 선택 기능 개발
 - 4컷 사진 저장 로직 최적화
-- 사용자 경험 중심의 UI/UX 설계
 
 
 #### 배운 점
@@ -61,11 +77,11 @@ iOS & Flutter 개발자를 꿈꾸는 열정적인 개발자입니다. 🚀
 - **프로젝트 레포지토리**: https://github.com/sion0104/TodoApp
 
 #### 주요 기능
-- 🗂️ 할 일 추가, 편집, 삭제
-- 📅 기한 및 우선순위 관리
-- 🔍 작업 검색 및 정렬 기능
-- 🌓 다크/라이트 모드 지원
-- 💾 Swift Data 로컬 데이터 영구 저장
+- 할 일 추가, 편집, 삭제
+- 기한 및 우선순위 관리
+- 작업 검색 및 정렬 기능
+- 다크/라이트 모드 지원
+- Swift Data 로컬 데이터 영구 저장
 
 #### 기술적 성과
 - SwiftUI 컴포넌트를 활용한 반응형 UI 구현
@@ -77,46 +93,6 @@ iOS & Flutter 개발자를 꿈꾸는 열정적인 개발자입니다. 🚀
 - SwiftUI Modifier 활용법
 - 코드 구조화 및 모듈화
 
-### 네이버 음성메모 클론 (개인 프로젝트)
-- **기간**: 진행 중 🛠️
-- **목적**: 네이버 음성메모 기능 재구현 및 학습
-- **기술**: Swift, UIKit, Storyboard
-- **주요 프레임워크**: AVFoundation
-- **아키텍처**: MVC 패턴
-- **프로젝트 레포지토리**: 준비 중
-
-#### 주요 기술적 특징
-- UIKit을 활용한 전통적인 iOS 앱 개발
-- Storyboard를 이용한 UI 인터페이스 설계
-- AVFoundation 음성 처리 기술 활용
-
-#### 기술 스택 상세
-- **Language**: Swift
-- **UI Framework**: UIKit
-- **UI Design**: Storyboard
-- **음성 처리**: AVFoundation
-  - AVAudioRecorder
-  - AVAudioPlayer
-  - AVAudioSession
-
-#### 핵심 구현 기능
-- 🎙️ 음성 메모 기능
-  - 음성 녹음
-  - 음성 재생
-  - 음성 파일 관리
-- 📝 녹음 목록 관리
-- 🕒 녹음 시간 추적
-
-#### 기술적 도전 과제
-- AVAudioSession 초기화 및 최적화
-- UIKit 컴포넌트를 사용한 사용자 인터페이스 구현
-- 음성 녹음/재생 세션 안정적 관리
-
-#### 학습 및 성장 포인트
-- UIKit 깊이 있는 이해
-- Storyboard를 통한 UI 레이아웃 설계
-- AVFoundation 프레임워크 심화 학습
-- MVC 아키텍처 패턴 적용
 
 ## 🔗 Contact
 [![GitHub](https://img.shields.io/badge/GitHub-sion0104-181717?logo=github)](https://github.com/sion0104)
