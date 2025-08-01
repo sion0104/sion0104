@@ -1,11 +1,12 @@
 
 # 최시온 (Choi Sion)
-iOS & Flutter 개발자를 꿈꾸는 열정적인 개발자입니다. 🚀
+SW 개발자를 꿈꾸는 열정적인 개발자입니다. 🚀
 
 ## 📚 기술 스킬
 ### Programming Languages
 ![Swift](https://img.shields.io/badge/Swift-5.9-F05138?logo=swift)
 ![Dart](https://img.shields.io/badge/Dart-3.10-0175C2?logo=dart)
+![Python](https://img.shields.io/badge/Python-3.0-0175C2?logo=dart)
 
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-3.10-02569B?logo=flutter)
